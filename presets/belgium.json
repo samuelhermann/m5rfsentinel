@@ -1,0 +1,122 @@
+[
+  {
+    "prefix": "00:40:B9",
+    "label": "Macq (Belgian ANPR maker: plate-reader cameras in over 70 Flemish police zones)",
+    "source": "IEEE MA-L registry (Macq Electronique SA); Macq states it has integrated ANPR systems in more than 70 police zones in Flanders with over 3,500 cameras (roadtraffic-technology.com Macq ANPR page). Weak: the block also covers Macq's other products",
+    "confidence": "candidate",
+    "score": 50,
+    "category": "ALPR"
+  },
+  {
+    "prefix": "00:22:9F",
+    "label": "Sensys Gatso (speed and red-light enforcement cameras, Flanders)",
+    "source": "IEEE MA-L registry (Sensys Traffic AB); Sensys Gatso Group press release 2021: award of the Flemish red-light and speed enforcement tender. Which of the group's blocks the Belgian cameras use is not established, so weak",
+    "confidence": "candidate",
+    "score": 50,
+    "category": "ALPR"
+  },
+  {
+    "prefix": "00:18:29",
+    "label": "Gatso (speed and red-light enforcement cameras, Flanders)",
+    "source": "IEEE MA-L registry (Gatsometer BV, part of Sensys Gatso Group); same 2021 Flemish tender as the Sensys block. Which block the Belgian cameras use is not established, so weak",
+    "confidence": "candidate",
+    "score": 50,
+    "category": "ALPR"
+  },
+  {
+    "prefix": "00:04:4C",
+    "label": "Jenoptik (ANPR cameras of the Ghent and Antwerp camera networks)",
+    "source": "IEEE MA-L registry (Jenoptik); Jenoptik civil-security case study: ANPR camera network for Ghent and Antwerp delivered via Engie Fabricom, from 2014",
+    "confidence": "candidate",
+    "score": 55,
+    "category": "ALPR"
+  },
+  {
+    "prefix": "48:E3:C3",
+    "label": "Jenoptik Advanced Systems (ANPR cameras of the Ghent and Antwerp camera networks)",
+    "source": "IEEE MA-L registry (Jenoptik Advanced Systems); same Ghent / Antwerp ANPR project as the Jenoptik block above",
+    "confidence": "candidate",
+    "score": 55,
+    "category": "ALPR"
+  },
+  {
+    "prefix": "00:1E:96",
+    "label": "Sepura (TETRA radios validated on the ASTRID police and emergency network)",
+    "source": "IEEE MA-L registry (Sepura); Critical Communications Review: ASTRID validated the Sepura SC20 for its network, which serves over 700 Belgian public-safety organisations",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "00:23:B9",
+    "label": "Airbus Defence and Space (ASTRID network maker, Tactilon Dabat radios)",
+    "source": "IEEE MA-L registry (Airbus Defence and Space); Airbus-Proximus consortium runs the ASTRID TETRA network, and the Airbus Tactilon Dabat is a validated ASTRID radio (Critical Communications Review)",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "C4:7C:8D:9",
+    "label": "Airbus DS SLC (TETRA radios of the ASTRID network)",
+    "source": "IEEE MA-M registry (Airbus Secure Land Communications); same ASTRID radio supplier as the Airbus Defence and Space block",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "4C:CC:34",
+    "label": "Motorola Solutions - in Belgium: V500 LTE body cams announced by Ghent police; radios",
+    "source": "IEEE MA-L registry; Ghent police announced Motorola Solutions V500 bodycams at Critical Communications World 2025 in Brussels (euro-security.de). Weak: the same blocks carry radios and other gear",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "00:1F:92",
+    "label": "Motorola Solutions - in Belgium: V500 LTE body cams announced by Ghent police; radios",
+    "source": "IEEE MA-L registry; Ghent police V500 bodycam announcement, Critical Communications World 2025. Weak: shared with radios",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "00:18:85",
+    "label": "Motorola Solutions - in Belgium: V500 LTE body cams announced by Ghent police; radios",
+    "source": "IEEE MA-L registry; Ghent police V500 bodycam announcement, Critical Communications World 2025. Weak: shared with radios",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "00:04:7D",
+    "label": "Motorola Solutions - in Belgium: V500 LTE body cams announced by Ghent police; radios",
+    "source": "IEEE MA-L registry; Ghent police V500 bodycam announcement, Critical Communications World 2025. Weak: shared with radios",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "10:74:6F",
+    "label": "Motorola Solutions - in Belgium: V500 LTE body cams announced by Ghent police; radios",
+    "source": "IEEE MA-L registry; Ghent police V500 bodycam announcement, Critical Communications World 2025. Weak: shared with radios",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "B8:E2:8C",
+    "label": "Motorola Solutions - in Belgium: V500 LTE body cams announced by Ghent police; radios",
+    "source": "IEEE MA-L registry; Ghent police V500 bodycam announcement, Critical Communications World 2025. Weak: shared with radios",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  },
+  {
+    "prefix": "9C:86:2B",
+    "label": "Motorola Solutions - in Belgium: V500 LTE body cams announced by Ghent police; radios",
+    "source": "IEEE MA-L registry; Ghent police V500 bodycam announcement, Critical Communications World 2025. Weak: shared with radios",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "PUBLIC_SAFETY"
+  }
+]

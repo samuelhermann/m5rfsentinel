@@ -1,0 +1,202 @@
+[
+  {
+    "prefix": "18:7F:88",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "24:2B:D6",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "34:3E:A4",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "54:E0:19",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "5C:47:5E",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "64:9A:63",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "90:48:6C",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "9C:76:13",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "AC:9F:C3",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "C4:DB:AD",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "CC:3B:FB",
+    "label": "Ring (doorbell and security cameras)",
+    "source": "IEEE MA-L registry (Ring LLC); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Ring-only blocks, but Ring doorbells are everywhere, so this alerts weakly",
+    "confidence": "candidate",
+    "score": 40,
+    "category": "CAMERA"
+  },
+  {
+    "prefix": "0C:9A:E6",
+    "label": "DJI (consumer and commercial drones and controllers)",
+    "source": "IEEE MA-L registry (Sz Dji Technology); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. DJI-only blocks: drones and remote controllers",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "8C:58:23",
+    "label": "DJI (consumer and commercial drones and controllers)",
+    "source": "IEEE MA-L registry (Sz Dji Technology); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. DJI-only blocks: drones and remote controllers",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "04:A8:5A",
+    "label": "DJI (consumer and commercial drones and controllers)",
+    "source": "IEEE MA-L registry (Sz Dji Technology); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. DJI-only blocks: drones and remote controllers",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "58:B8:58",
+    "label": "DJI (consumer and commercial drones and controllers)",
+    "source": "IEEE MA-L registry (Sz Dji Technology); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. DJI-only blocks: drones and remote controllers",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "E4:7A:2C",
+    "label": "DJI (consumer and commercial drones and controllers)",
+    "source": "IEEE MA-L registry (Sz Dji Technology); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. DJI-only blocks: drones and remote controllers",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "60:60:1F",
+    "label": "DJI (consumer and commercial drones and controllers)",
+    "source": "IEEE MA-L registry (Sz Dji Technology); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. DJI-only blocks: drones and remote controllers",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "48:1C:B9",
+    "label": "DJI (consumer and commercial drones and controllers)",
+    "source": "IEEE MA-L registry (Sz Dji Technology); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. DJI-only blocks: drones and remote controllers",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "34:D2:62",
+    "label": "DJI (consumer and commercial drones and controllers)",
+    "source": "IEEE MA-L registry (Sz Dji Technology); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. DJI-only blocks: drones and remote controllers",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "00:12:1C",
+    "label": "Parrot (Anafi, Bebop and AR.Drone drones)",
+    "source": "IEEE MA-L registry (Parrot Sa); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Parrot SA blocks also cover its car kits and audio gear, so too weak to alert: listed in the hit list only",
+    "confidence": "candidate",
+    "score": 35,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "00:26:7E",
+    "label": "Parrot (Anafi, Bebop and AR.Drone drones)",
+    "source": "IEEE MA-L registry (Parrot Sa); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Parrot SA blocks also cover its car kits and audio gear, so too weak to alert: listed in the hit list only",
+    "confidence": "candidate",
+    "score": 35,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "90:03:B7",
+    "label": "Parrot (Anafi, Bebop and AR.Drone drones)",
+    "source": "IEEE MA-L registry (Parrot Sa); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Parrot SA blocks also cover its car kits and audio gear, so too weak to alert: listed in the hit list only",
+    "confidence": "candidate",
+    "score": 35,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "90:3A:E6",
+    "label": "Parrot (Anafi, Bebop and AR.Drone drones)",
+    "source": "IEEE MA-L registry (Parrot Sa); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Parrot SA blocks also cover its car kits and audio gear, so too weak to alert: listed in the hit list only",
+    "confidence": "candidate",
+    "score": 35,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "A0:14:3D",
+    "label": "Parrot (Anafi, Bebop and AR.Drone drones)",
+    "source": "IEEE MA-L registry (Parrot Sa); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Parrot SA blocks also cover its car kits and audio gear, so too weak to alert: listed in the hit list only",
+    "confidence": "candidate",
+    "score": 35,
+    "category": "DRONE"
+  },
+  {
+    "prefix": "38:1D:14",
+    "label": "Skydio (enterprise drones)",
+    "source": "IEEE MA-L registry (Skydio Inc.); listed in the OUI Database of colonelpanichacks/oui-spy-unified-blue. Skydio-only block",
+    "confidence": "candidate",
+    "score": 45,
+    "category": "DRONE"
+  }
+]
